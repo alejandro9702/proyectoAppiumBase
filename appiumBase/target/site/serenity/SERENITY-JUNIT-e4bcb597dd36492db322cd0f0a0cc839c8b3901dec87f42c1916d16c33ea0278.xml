@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ejemplo apppium" skipped="0" tests="1" time="0.01" timestamp="2020-08-21 05:59:28"><testcase name="Ejemplo apium 1"><error type="java.lang.reflect.InvocationTargetException"/><system-err>null
+io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:217)
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.DefaultGenericMobileDriver.&lt;init&gt;(DefaultGenericMobileDriver.java:38)
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:84)
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:94)
+com.zunify.automation.stepdefinitions.Hook.setUpApppium(Hook.java:25)
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+</system-err></testcase></testsuite>

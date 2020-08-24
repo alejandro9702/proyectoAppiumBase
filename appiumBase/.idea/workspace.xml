@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="542657bf-a7d4-4e36-978b-e2348e0a9c91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gQQ0yz9lqhtZj7SC4IM5CiYSLg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="runner2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.zunify.automation.runners.runner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="test" />
+            <option value="aggregate" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.runner2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="542657bf-a7d4-4e36-978b-e2348e0a9c91" name="Default Changelist" comment="" />
+      <created>1598044117022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598044117022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1520" y="65" key="#Project_Structure" timestamp="1598046779852">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state x="1520" y="65" key="#Project_Structure/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598046779852" />
+    <state x="1384" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598046954835">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state x="1384" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598046954835" />
+    <state x="1736" y="332" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598046817409">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state x="1736" y="332" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598046817409" />
+    <state x="1637" y="94" key="#runner" timestamp="1598046977791">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state x="1637" y="94" key="#runner/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598046977791" />
+    <state width="1238" height="240" key="GridCell.Tab.0.bottom" timestamp="1598115995602">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598115995602" />
+    <state width="1238" height="240" key="GridCell.Tab.0.center" timestamp="1598115995601">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598115995601" />
+    <state width="1238" height="240" key="GridCell.Tab.0.left" timestamp="1598115995600">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598115995600" />
+    <state width="1238" height="240" key="GridCell.Tab.0.right" timestamp="1598115995601">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598115995601" />
+    <state x="1613" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1598287396718">
+      <screen x="1280" y="0" width="1280" height="800" />
+    </state>
+    <state x="1613" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800/1280.0.1280.800@1280.0.1280.800" timestamp="1598287396718" />
+  </component>
+</project>
